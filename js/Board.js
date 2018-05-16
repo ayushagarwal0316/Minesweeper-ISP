@@ -1,6 +1,7 @@
-var pad = 2; //Value for the padding
-var pad = document.getElementById("myNumber").value;
-
+//Value for the padding
+//var pad = document.getElementById("padding-setting").value;
+var pad =2;
+//var size = document.getElementById("box-size-setting").value;
 var size = 30; //Value for the size of a zone (a square)
 
 
